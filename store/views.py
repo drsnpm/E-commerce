@@ -132,13 +132,15 @@ class CheckOut(View):
                            mobile = mobile,
                            quantity = cart.get(str(product.id)))
             order.save()
-        request.session['cart'] = {}
-        # return redirect('cart')
-        return render(request, 'store/payment.html')
+        return redirect('payment') 
 
 class Payment(View):
-    @method_decorator(auth_middleware)
+    def get(self, request):
+        ids = list(request.session.get('cart').keys())
+        products = Product.objects.filter(id__in=ids)
+        return render(request, 'store/payment.html',{'products':products})
     def post(self, request):
+        request.session['cart'] = {}
         return redirect('orders')
 
 
