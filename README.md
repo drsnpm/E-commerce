@@ -33,16 +33,20 @@ Ensure you have the following software installed:
    cd e-commerce
 
 4. Install required dependencies:
+   ```bash
    pip install -r requirements.txt
 
 5. Run migrations to set up the database:
-   python manage.py migrate
+    ```bash
+    python manage.py migrate
 
 6. Create a superuser for admin access (optional):
+    ```bash
     python manage.py createsuperuser
 
 7. Start the development server:
-   python manage.py runserver
+    ```bash
+    python manage.py runserver
 
 8. Access the site in your browser at http://127.0.0.1:8000/
 
