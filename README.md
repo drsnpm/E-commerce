@@ -21,13 +21,6 @@ Ensure you have the following software installed:
 - SQLite (SQLite comes by default with Python, so no separate installation required)
 - Git
 
-### Steps to Install
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/drsnpm/e-commerce.git
-
-
 ## Features for Applicant
 
 1. **User Registration and Login**: Allows users to create accounts, log in, and manage personal information.
@@ -45,6 +38,14 @@ Ensure you have the following software installed:
 7. **Responsive Design**: Ensures the website works well on all devices, including desktops, tablets, and mobile phones.
   
 8. **Admin Panel**: A backend interface for administrators to manage products, users, orders, and site content.
+
+### Steps to Install
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/drsnpm/e-commerce.git
+
+
 
 
 
