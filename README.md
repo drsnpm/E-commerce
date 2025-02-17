@@ -29,21 +29,22 @@ Ensure you have the following software installed:
    git clone https://github.com/drsnpm/e-commerce.git
 
 2. Navigate to the project directory:
+   ```bash
    cd e-commerce
 
-3. Install required dependencies:
+4. Install required dependencies:
    pip install -r requirements.txt
 
-4. Run migrations to set up the database:
+5. Run migrations to set up the database:
    python manage.py migrate
 
-5. Create a superuser for admin access (optional):
+6. Create a superuser for admin access (optional):
     python manage.py createsuperuser
 
-6. Start the development server:
+7. Start the development server:
    python manage.py runserver
 
-7. Access the site in your browser at http://127.0.0.1:8000/
+8. Access the site in your browser at http://127.0.0.1:8000/
 
 
 ## Features for Applicant
