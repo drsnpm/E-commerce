@@ -56,3 +56,27 @@ Ensure you have the following software installed:
 6. **Order Management**: Tracks orders, order status, and allows users to view their order history.
 7. **Responsive Design**: Ensures the website works well on all devices, including desktops, tablets, and mobile phones.  
 8. **Admin Panel**: A backend interface for administrators to manage products, users, orders, and site content.
+
+
+
+
+## Snapshts
+
+### Home Pagge
+![Image](https://github.com/user-attachments/assets/abad3136-3d85-4bd1-937e-0cd7dc37f9b6)
+### User Login Page
+![Image](https://github.com/user-attachments/assets/5b03e469-e7de-4875-a897-99b284a857c2)
+### Cart Page
+![Image](https://github.com/user-attachments/assets/ab186f3e-9c06-4221-9f91-15f56880f5a1)
+### Order Page
+![Image](https://github.com/user-attachments/assets/af54bb55-52fd-4584-954e-541c0aa2e442)
+### Payment Page
+![Image](https://github.com/user-attachments/assets/b1f1a37d-a59f-4e85-9b01-9391deec8626)
+### Status of Order Page
+![Image](https://github.com/user-attachments/assets/9aedb855-9657-477a-86a7-00b3d0ea813b)
+### User Profile Page
+![Image](https://github.com/user-attachments/assets/fdcbaba0-d0d0-4646-b843-72377ae7767f)
+### User Update Profile
+![Image](https://github.com/user-attachments/assets/f418e1b7-8cdb-47ea-83c7-916c2990cb06)
+### User Change Password
+![Image](https://github.com/user-attachments/assets/d86a9f0e-6ae3-4ada-9972-653b1a5b5f3c)
