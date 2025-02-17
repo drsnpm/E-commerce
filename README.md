@@ -65,7 +65,7 @@ Ensure you have the following software installed:
 
 
 
-## Snapshts
+## Snapshots
 
 ### Home Pagge
 ![Image](https://github.com/user-attachments/assets/abad3136-3d85-4bd1-937e-0cd7dc37f9b6)
